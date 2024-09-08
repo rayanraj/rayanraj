@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hello, I'm Rayan Raj 👋
 
+I'm a Firmware Developer with a strong foundation in C/C++ programming and expertise in data structures and algorithms. Passionate about creating efficient and reliable embedded solutions, I thrive on solving complex problems and optimizing system performance.
+
+## 🛠️ Skills & Technologies
+- **Languages**: C, C++, Java
+- **Embedded Systems**: RTOS, Microcontrollers
+- **Data Structures & Algorithms**: Proficient in designing and implementing complex data structures and algorithms for performance optimization
+- **Protocols**: UART, SPI, I2C, CAN
+- **Version Control**: Git
 <!--
 **rayanraj/rayanraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
