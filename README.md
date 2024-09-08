@@ -6,7 +6,7 @@ I'm a Firmware Developer with a strong foundation in C/C++ programming and exper
 - **Languages**: C, C++, Java
 - **Embedded Systems**: RTOS, Microcontrollers
 - **Data Structures & Algorithms**: Proficient in designing and implementing complex data structures and algorithms for performance optimization
-- **Protocols**: UART, SPI, I2C, CAN
+- **Protocols**: CAN, SPI, I2C, UART
 - **Version Control**: Git
 <!--
 **rayanraj/rayanraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
